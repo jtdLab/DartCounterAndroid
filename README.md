@@ -1,2 +1,2 @@
-# DartCounterMobileAndroid
-DartCounter Mobile (native Android)
+# DartCounterAndroid
+DartCounter (native Android)
